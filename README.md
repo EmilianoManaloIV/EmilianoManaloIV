@@ -1,7 +1,5 @@
 # Hi there, I'm Emiliano 👋
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 💻 I’m a software developer with a passion for C++, .NET, and creative problem-solving.  
 🚀 I love building multidisciplinary projects and optimizing workflows.  
 
@@ -17,3 +15,6 @@
 ## 📊 GitHub Stats
 ![EmilianoManaloIV's Stats](https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![EmilianoManaloIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+## 🔗 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/emiliano-manalo-51a164359/))
