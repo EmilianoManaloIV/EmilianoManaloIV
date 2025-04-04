@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**EmilianoManaloIV/EmilianoManaloIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a software developer with a passion for C++, .NET, and creative problem-solving.  
+🚀 I love building multidisciplinary projects and optimizing workflows.  
 
-Here are some ideas to get you started:
+## 🚧 Projects
+- 🔧 [Project 1](https://github.com/yourusername/project1)
+- 🔍 [Project 2](https://github.com/yourusername/project2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
