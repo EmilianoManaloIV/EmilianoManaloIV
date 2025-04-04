@@ -30,4 +30,5 @@
 
 ## 🔗 Contact Me
 www.linkedin.com/in/emiliano-manalo-iv
+emilianomanaloiv@gmail.com
 
