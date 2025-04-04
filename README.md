@@ -29,5 +29,5 @@
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-006400?style=flat-square&logo=stackshare&logoColor=white)
 
 ## 🔗 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/emiliano-manalo-iv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)][(www.linkedin.com/in/emiliano-manalo-iv)]
 
