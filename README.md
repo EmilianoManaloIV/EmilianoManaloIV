@@ -17,4 +17,4 @@
 ![EmilianoManaloIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## 🔗 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/emiliano-manalo-51a164359/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/emiliano-manalo-51a164359)
