@@ -11,6 +11,7 @@
 ![Blender 3D](https://img.shields.io/badge/-Blender-FF6347?style=flat-square&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-00A0B0?style=flat-square&logo=da-vinci-resolve&logoColor=white)
 ![Plasticity](https://img.shields.io/badge/-Plasticity-00B5E2?style=flat-square&logo=plasticity&logoColor=white)
+![Jamovi](https://img.shields.io/badge/-Jamovi-4C6A92?style=flat-square&logo=R&logoColor=white)
 
 ## 🧰 Projects
 
