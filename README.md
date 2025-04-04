@@ -12,6 +12,10 @@
 ![XR](https://img.shields.io/badge/-XR-FF6C37?style=flat-square&logo=virtual-reality&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/-Avalonia-7B42F6?style=flat-square&logo=code&logoColor=white)
 
+## 🧰 Projects
+
+## 🔧 Prototypes
+
 ## 📊 GitHub Stats
 ![EmilianoManaloIV's Stats](https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![EmilianoManaloIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact)
