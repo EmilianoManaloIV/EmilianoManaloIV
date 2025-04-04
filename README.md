@@ -12,4 +12,6 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![EmilianoManaloIV's Stats](https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![EmilianoManaloIV's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmilianoManaloIV&theme=dracula&hide_border=false)
+![EmilianoManaloIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact)
