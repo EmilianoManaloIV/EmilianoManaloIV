@@ -26,6 +26,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/-Avalonia-7B42F6?style=flat-square&logo=code&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-006400?style=flat-square&logo=stackshare&logoColor=white)
+![Boost.Asio](https://img.shields.io/badge/Boost.Asio-005C5C?style=flat-square&logo=cpp&logoColor=white)
 
 ## 🔗 Contact Me
 www.linkedin.com/in/emiliano-manalo-iv  
