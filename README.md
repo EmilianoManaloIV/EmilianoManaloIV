@@ -60,3 +60,5 @@ emilianomanaloiv@gmail.com
 - [Data USA](https://datausa.io/)
 - [True Up](https://trueup.io/)
 - [Government Jobs](https://www.governmentjobs.com/home/)
+- [Stack Share](https://stackshare.io/)
+- [Digital.gov](https://digital.gov/job-board)
