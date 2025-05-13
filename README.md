@@ -32,3 +32,31 @@
 www.linkedin.com/in/emiliano-manalo-iv  
 emilianomanaloiv@gmail.com
 
+## General Links I Use On A Day-To-Day Basis
+[Computer Science Cheat Sheets From NUS](https://bernardteo.me/)
+[A Cheat Sheet For Everything](https://cheat-sheets.org/)
+[A Developer's Cheat Sheet](https://quickref.me/index.html)
+[C++ STL Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html)
+
+## Open Source Graphics And Assets For Various Projects
+[SVG Open-Source Repository](https://www.svgrepo.com/)
+[Open-Source Game Assets](https://opengameart.org/)
+[Kenny Game Assets](https://kenney.nl/)
+
+## Digital Freedom & Open Source Tools
+[Neo Vim](https://neovim.io/)
+[Open Office](https://www.openoffice.org/)
+[Jamovi](https://www.jamovi.org/)
+[Draw.io](https://www.drawio.com/)
+[Overleaf](https://github.com/overleaf/overleaf)
+
+## Programming Languages I Like
+- 🔧 [MinGW (GCC for Windows)](https://www.mingw-w64.org/downloads/) – For compiling C/C++ code on Windows.
+- 🐍 [Python](https://www.python.org/downloads/) – For running Python scripts.
+- 💻 [.NET SDK (C#)](https://dotnet.microsoft.com/en-us/download) – For building and running C# applications.
+- ☕ [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) – For compiling and running Java programs.
+
+## Job And Opportunity Research
+[Data USA](https://datausa.io/)
+[True Up](https://trueup.io/)
+[Government Jobs](https://www.governmentjobs.com/home/)
