@@ -33,7 +33,7 @@ www.linkedin.com/in/emiliano-manalo-iv
 emilianomanaloiv@gmail.com
 
 ## General Links I Use On A Day-To-Day Basis
-[Computer Science Cheat Sheets From NUS](https://bernardteo.me/)
+- [Computer Science Cheat Sheets From NUS](https://bernardteo.me/)
 [A Cheat Sheet For Everything](https://cheat-sheets.org/)
 [A Developer's Cheat Sheet](https://quickref.me/index.html)
 [C++ STL Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html)
