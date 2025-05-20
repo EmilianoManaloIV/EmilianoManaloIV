@@ -62,3 +62,10 @@ emilianomanaloiv@gmail.com
 - [Government Jobs](https://www.governmentjobs.com/home/)
 - [Stack Share](https://stackshare.io/)
 - [Digital.gov](https://digital.gov/job-board)
+- [8000 Hours](https://jobs.80000hours.org/)
+
+## CS, Math, and Engineering Libraries For Python
+- [SymPy](https://github.com/sympy/sympy)
+- [LEAN](https://lean-lang.org/)
+- [NumPy](https://numpy.org/)
+
