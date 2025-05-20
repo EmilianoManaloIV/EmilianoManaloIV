@@ -64,6 +64,7 @@ emilianomanaloiv@gmail.com
 - [Stack Share](https://stackshare.io/)
 - [Digital.gov](https://digital.gov/job-board)
 - [8000 Hours](https://jobs.80000hours.org/)
+- [Simplify Jobs](https://github.com/SimplifyJobs)
 
 ## CS, Math, and Engineering Libraries For Python
 - [SymPy](https://github.com/sympy/sympy)
