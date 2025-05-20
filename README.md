@@ -37,6 +37,7 @@ emilianomanaloiv@gmail.com
 - [A Cheat Sheet For Everything](https://cheat-sheets.org/)
 - [A Developer's Cheat Sheet](https://quickref.me/index.html)
 - [C++ STL Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html)
+- [CS_ENGINEERING Cheat Sheet.pdf](https://github.com/user-attachments/files/20356991/CS_ENGINEERING.Cheat.Sheet.pdf)
 
 ## Open Source Graphics And Assets For Various Projects
 - [SVG Open-Source Repository](https://www.svgrepo.com/)
