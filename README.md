@@ -50,7 +50,7 @@ emilianomanaloiv@gmail.com
 - [Jamovi](https://www.jamovi.org/)
 - [Draw.io](https://www.drawio.com/)
 - [Overleaf](https://github.com/overleaf/overleaf)
-- [GodDot](https://godotengine.org/)
+- [Goddot](https://godotengine.org/)
 
 ## Programming Languages I Like
 - 🔧 [MinGW (GCC for Windows)](https://www.mingw-w64.org/downloads/) – For compiling C/C++ code on Windows.
