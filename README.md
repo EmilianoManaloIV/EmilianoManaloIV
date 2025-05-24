@@ -21,12 +21,10 @@
 
 ## 💡 Currently Learning & Working On
 <p>
-  <img src="https://img.shields.io/badge/-XAML-0C54C2?style=flat&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Avalonia-7B42F6?style=flat&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Data%20Structures-006400?style=flat&logo=stackshare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Boost.Asio-005C5C?style=flat&logo=cpp&logoColor=white"/>
 </p>
 
 ---
