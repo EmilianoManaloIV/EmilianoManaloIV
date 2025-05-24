@@ -78,6 +78,7 @@
 - 🧠 [Draw.io](https://www.drawio.com/)
 - 📄 [Overleaf](https://github.com/overleaf/overleaf)
 - 🕹️ [Godot Engine](https://godotengine.org/)
+- :computer: [Blender3D](https://www.blender.org/)
 
 ---
 
