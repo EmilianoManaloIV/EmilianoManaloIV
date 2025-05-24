@@ -1,88 +1,114 @@
-# Hi there, I'm Emiliano 👋
+# 👋 Hi there, I'm Emiliano
 
-💻 I’m a software developer with a passion for C++, .NET, and creative problem-solving.  
-🚀 I love building multidisciplinary projects and optimizing workflows.  
+💻 I'm a **Software Developer** passionate about **C++**, **.NET**, and creative problem-solving.  
+🚀 I love building multidisciplinary projects and optimizing workflows through elegant code and intuitive design.
+
+---
 
 ## 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![XR](https://img.shields.io/badge/-XR-FF6C37?style=flat-square&logo=virtual-reality&logoColor=white)
-![Blender 3D](https://img.shields.io/badge/-Blender-FF6347?style=flat-square&logo=blender&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-00A0B0?style=flat-square&logo=da-vinci-resolve&logoColor=white)
-![Plasticity](https://img.shields.io/badge/-Plasticity-00B5E2?style=flat-square&logo=plasticity&logoColor=white)
-![Jamovi](https://img.shields.io/badge/-Jamovi-4C6A92?style=flat-square&logo=R&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-XR-FF6C37?style=flat&logo=virtual-reality&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Blender-FF6347?style=flat&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-00A0B0?style=flat&logo=da-vinci-resolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Plasticity-00B5E2?style=flat&logo=plasticity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jamovi-4C6A92?style=flat&logo=R&logoColor=white"/>
+</p>
 
-## 🧰 Projects
+---
 
-## 🔧 Prototypes
+## 💡 Currently Learning & Working On
+<p>
+  <img src="https://img.shields.io/badge/-XAML-0C54C2?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Avalonia-7B42F6?style=flat&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Data%20Structures-006400?style=flat&logo=stackshare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boost.Asio-005C5C?style=flat&logo=cpp&logoColor=white"/>
+</p>
 
-## 📊 GitHub Stats
-![EmilianoManaloIV's Stats](https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![EmilianoManaloIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+---
 
-## 📚 Currently Learning & Working On
-![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=windows&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/-Avalonia-7B42F6?style=flat-square&logo=code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-006400?style=flat-square&logo=stackshare&logoColor=white)
-![Boost.Asio](https://img.shields.io/badge/Boost.Asio-005C5C?style=flat-square&logo=cpp&logoColor=white)
+## 🎨 GUI Frameworks for C++ and .NET
+- 🖼️ [**Qt (Open Source)**](https://www.qt.io/download-open-source) — Cross-platform C++ GUI framework with designer tools and widgets.
+- 🌐 [**Avalonia UI**](https://avaloniaui.net/) — .NET-based, XAML-compatible framework for Windows, Linux & macOS.
 
-## 💡 GUI Frameworks for C++ and .NET
-
-- 🖼️ [Qt (Open Source)](https://www.qt.io/download-open-source) — Powerful C++ framework for professional cross-platform GUI apps.
-- 🌐 [Avalonia UI](https://avaloniaui.net/) — A modern .NET UI framework inspired by WPF, supporting Windows, Linux, and macOS.
+---
 
 ## 📚 Awesome C++ Resources
+- 📦 [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp) — Curated list of C++ libraries, frameworks, tools & resources.
 
-- 🌟 [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) — A curated list of awesome C++ libraries, frameworks, and resources.
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+</p>
+
+---
 
 ## 🔗 Contact Me
-www.linkedin.com/in/emiliano-manalo-iv  
-emilianomanaloiv@gmail.com
+- 📧 emilianomanaloiv@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emiliano-manalo-iv)  
 
-## General Links I Use On A Day-To-Day Basis
-- [Computer Science Cheat Sheets From NUS](https://bernardteo.me/)
-- [A Cheat Sheet For Everything](https://cheat-sheets.org/)
-- [A Developer's Cheat Sheet](https://quickref.me/index.html)
-- [C++ STL Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html)
-- [CS_ENGINEERING Cheat Sheet.pdf](https://github.com/user-attachments/files/20356991/CS_ENGINEERING.Cheat.Sheet.pdf)
+---
 
-## Open Source Graphics And Assets For Various Projects
-- [SVG Open-Source Repository](https://www.svgrepo.com/)
-- [Open-Source Game Assets](https://opengameart.org/)
-- [Kenny Game Assets](https://kenney.nl/)
+## 📎 Reference Links I Use Daily
+- 🧠 [CS Cheat Sheets (NUS)](https://bernardteo.me/)
+- 📚 [Cheat Sheets for Everything](https://cheat-sheets.org/)
+- 📌 [QuickRef Dev Sheets](https://quickref.me/index.html)
+- 📘 [C++ STL Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html)
+- 📄 [CS Engineering Cheat Sheet](https://github.com/user-attachments/files/20356991/CS_ENGINEERING.Cheat.Sheet.pdf)
 
-## Digital Freedom & Open Source Tools
-- [Neo Vim](https://neovim.io/)
-- [Open Office](https://www.openoffice.org/)
-- [Jamovi](https://www.jamovi.org/)
-- [Draw.io](https://www.drawio.com/)
-- [Overleaf](https://github.com/overleaf/overleaf)
-- [Goddot](https://godotengine.org/)
+---
 
-## Programming Languages I Like
-- 🔧 [MinGW (GCC for Windows)](https://www.mingw-w64.org/downloads/) – For compiling C/C++ code on Windows.
-- 🐍 [Python](https://www.python.org/downloads/) – For running Python scripts.
-- 💻 [.NET SDK (C#)](https://dotnet.microsoft.com/en-us/download) – For building and running C# applications.
-- ☕ [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) – For compiling and running Java programs.
+## 🎮 Open Source Graphics & Assets
+- 🖼️ [SVG Repo](https://www.svgrepo.com/)
+- 🎨 [Open Game Art](https://opengameart.org/)
+- 🎮 [Kenney Assets](https://kenney.nl/)
 
-## Job And Opportunity Research
-- [Data USA](https://datausa.io/)
-- [True Up](https://trueup.io/)
-- [Government Jobs](https://www.governmentjobs.com/home/)
-- [Stack Share](https://stackshare.io/)
-- [Digital.gov](https://digital.gov/job-board)
-- [8000 Hours](https://jobs.80000hours.org/)
-- [Simplify Jobs](https://github.com/SimplifyJobs)
+---
 
-## CS, Math, and Engineering Libraries For Python
-- [SymPy](https://github.com/sympy/sympy)
-- [LEAN](https://lean-lang.org/)
-- [NumPy](https://numpy.org/)
+## 🧩 Digital Freedom & OSS Tools
+- 🔧 [NeoVim](https://neovim.io/)
+- 📝 [OpenOffice](https://www.openoffice.org/)
+- 📊 [Jamovi](https://www.jamovi.org/)
+- 🧠 [Draw.io](https://www.drawio.com/)
+- 📄 [Overleaf](https://github.com/overleaf/overleaf)
+- 🕹️ [Godot Engine](https://godotengine.org/)
 
-## Open Source Education
-- [OSSU Computer Science](https://github.com/ossu/computer-science)
-- [LibreText](https://libretexts.org/)
-- [OpenStax](https://openstax.org/)
+---
+
+## 👨‍💻 Programming Languages I Use
+- ⚙️ [MinGW (GCC for Windows)](https://www.mingw-w64.org/downloads/)
+- 🐍 [Python](https://www.python.org/downloads/)
+- 💻 [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+- ☕ [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+
+---
+
+## 💼 Career Research & Job Boards
+- 📊 [Data USA](https://datausa.io/)
+- 🔍 [True Up](https://trueup.io/)
+- 🏛️ [Government Jobs](https://www.governmentjobs.com/home/)
+- 💬 [StackShare](https://stackshare.io/)
+- 🧪 [Digital.gov](https://digital.gov/job-board)
+- 🌍 [80000 Hours](https://jobs.80000hours.org/)
+- ⚡ [Simplify Jobs](https://github.com/SimplifyJobs)
+
+---
+
+## 🧠 Math, CS & Engineering Libraries (Python)
+- ∑ [SymPy](https://github.com/sympy/sympy)
+- 📐 [LEAN](https://lean-lang.org/)
+- 🔢 [NumPy](https://numpy.org/)
+
+---
+
+## 🆓 Open Source Education
+- 🧑‍🎓 [OSSU Computer Science](https://github.com/ossu/computer-science)
+- 📖 [LibreText](https://libretexts.org/)
+- 📚 [OpenStax](https://openstax.org/)
