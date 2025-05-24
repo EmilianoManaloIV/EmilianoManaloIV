@@ -21,7 +21,7 @@
 
 ## 💡 Currently Learning & Working On
 <p>
-  ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+  <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Avalonia-7B42F6?style=flat&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
