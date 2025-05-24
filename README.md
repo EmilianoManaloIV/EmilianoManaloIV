@@ -1,7 +1,9 @@
-# Hi there, I'm Emiliano 👋
+# 👋 Hi there, I'm Emiliano
 
-💻 I’m a software developer with a passion for C++, .NET, and creative problem-solving.  
-🚀 I love building multidisciplinary projects and optimizing workflows.  
+💻 I'm a **software developer** passionate about **C++**, **.NET**, and **creative problem-solving**.  
+🚀 I love building **multidisciplinary projects** and **optimizing workflows** across tools and platforms.
+
+---
 
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -13,13 +15,7 @@
 ![Plasticity](https://img.shields.io/badge/-Plasticity-00B5E2?style=flat-square&logo=plasticity&logoColor=white)
 ![Jamovi](https://img.shields.io/badge/-Jamovi-4C6A92?style=flat-square&logo=R&logoColor=white)
 
-## 🧰 Projects
-
-## 🔧 Prototypes
-
-## 📊 GitHub Stats
-![EmilianoManaloIV's Stats](https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![EmilianoManaloIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+---
 
 ## 📚 Currently Learning & Working On
 ![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=windows&logoColor=white)
@@ -28,52 +24,92 @@
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-006400?style=flat-square&logo=stackshare&logoColor=white)
 ![Boost.Asio](https://img.shields.io/badge/Boost.Asio-005C5C?style=flat-square&logo=cpp&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+![EmilianoManaloIV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&layout=compact&hide_border=false)
+
+---
+
+## 🧰 Projects
+<!-- Add your featured project links here -->
+Work in progress... 🚧
+
+---
+
+## 🔧 Prototypes
+<!-- Add prototype experiments, games, or design tests -->
+Coming soon... 🛠️
+
+---
+
 ## 🔗 Contact Me
-www.linkedin.com/in/emiliano-manalo-iv  
-emilianomanaloiv@gmail.com
 
-## General Links I Use On A Day-To-Day Basis
-- [Computer Science Cheat Sheets From NUS](https://bernardteo.me/)
-- [A Cheat Sheet For Everything](https://cheat-sheets.org/)
-- [A Developer's Cheat Sheet](https://quickref.me/index.html)
-- [C++ STL Cheat Sheet](https://hackingcpp.com/cpp/cheat_sheets.html)
-- [CS_ENGINEERING Cheat Sheet.pdf](https://github.com/user-attachments/files/20356991/CS_ENGINEERING.Cheat.Sheet.pdf)
+📧 emilianomanaloiv@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/emiliano-manalo-iv)
 
-## Open Source Graphics And Assets For Various Projects
-- [SVG Open-Source Repository](https://www.svgrepo.com/)
-- [Open-Source Game Assets](https://opengameart.org/)
-- [Kenny Game Assets](https://kenney.nl/)
+---
 
-## Digital Freedom & Open Source Tools
-- [Neo Vim](https://neovim.io/)
-- [Open Office](https://www.openoffice.org/)
-- [Jamovi](https://www.jamovi.org/)
-- [Draw.io](https://www.drawio.com/)
-- [Overleaf](https://github.com/overleaf/overleaf)
-- [Goddot](https://godotengine.org/)
+## 🌐 Helpful Dev Resources
 
-## Programming Languages I Like
-- 🔧 [MinGW (GCC for Windows)](https://www.mingw-w64.org/downloads/) – For compiling C/C++ code on Windows.
-- 🐍 [Python](https://www.python.org/downloads/) – For running Python scripts.
-- 💻 [.NET SDK (C#)](https://dotnet.microsoft.com/en-us/download) – For building and running C# applications.
-- ☕ [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) – For compiling and running Java programs.
+### 🧠 CS & Programming Cheat Sheets
+- 📌 [NUS CS Cheat Sheets](https://bernardteo.me/)
+- 📌 [Cheat Sheets for Everything](https://cheat-sheets.org/)
+- 📌 [QuickRef - Dev Cheat Sheet](https://quickref.me/index.html)
+- 📌 [C++ STL Cheatsheet](https://hackingcpp.com/cpp/cheat_sheets.html)
+- 📌 [CS Engineering Cheat Sheet (PDF)](https://github.com/user-attachments/files/20356991/CS_ENGINEERING.Cheat.Sheet.pdf)
 
-## Job And Opportunity Research
-- [Data USA](https://datausa.io/)
-- [True Up](https://trueup.io/)
-- [Government Jobs](https://www.governmentjobs.com/home/)
-- [Stack Share](https://stackshare.io/)
-- [Digital.gov](https://digital.gov/job-board)
-- [8000 Hours](https://jobs.80000hours.org/)
-- [Simplify Jobs](https://github.com/SimplifyJobs)
+### 🎨 Open Source Graphics & Assets
+- 🎨 [SVG Repo](https://www.svgrepo.com/)
+- 🕹️ [Open Game Art](https://opengameart.org/)
+- 🧩 [Kenney Assets](https://kenney.nl/)
 
-## CS, Math, and Engineering Libraries For Python
-- [SymPy](https://github.com/sympy/sympy)
-- [LEAN](https://lean-lang.org/)
-- [NumPy](https://numpy.org/)
+### 🛡️ Digital Freedom & Open Tools
+- ✨ [NeoVim](https://neovim.io/)
+- 📄 [OpenOffice](https://www.openoffice.org/)
+- 📊 [Jamovi](https://www.jamovi.org/)
+- 📝 [Draw.io](https://www.drawio.com/)
+- 📚 [Overleaf](https://github.com/overleaf/overleaf)
+- 🎮 [Godot Engine](https://godotengine.org/)
 
-## Open Source Education
-- [OSSU Computer Science](https://github.com/ossu/computer-science)
-- [LibreText](https://libretexts.org/)
-- [OpenStax](https://openstax.org/)
+---
+
+## 🖥️ Programming Languages I Use
+
+- 🔧 [MinGW (GCC)](https://www.mingw-w64.org/downloads/)
+- 🐍 [Python](https://www.python.org/downloads/)
+- 💻 [.NET SDK (C#)](https://dotnet.microsoft.com/en-us/download)
+- ☕ [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+
+---
+
+## 📈 Career & Research Resources
+
+- 🧭 [Data USA](https://datausa.io/)
+- 📊 [TrueUp](https://trueup.io/)
+- 🏛️ [Government Jobs](https://www.governmentjobs.com/home/)
+- ⚙️ [StackShare](https://stackshare.io/)
+- 🧪 [Digital.gov Job Board](https://digital.gov/job-board)
+- 🎯 [80,000 Hours Job Board](https://jobs.80000hours.org/)
+- 🛠️ [Simplify Jobs GitHub](https://github.com/SimplifyJobs)
+
+---
+
+## 🔬 Python Libraries I Like
+
+- 🧠 [SymPy](https://github.com/sympy/sympy)
+- 📐 [LEAN Theorem Prover](https://lean-lang.org/)
+- 📊 [NumPy](https://numpy.org/)
+
+---
+
+## 📖 Open Source Education
+
+- 🧠 [OSSU: Open Source Society University](https://github.com/ossu/computer-science)
+- 📘 [LibreTexts](https://libretexts.org/)
+- 📗 [OpenStax](https://openstax.org/)
+
+---
 
