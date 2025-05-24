@@ -50,6 +50,7 @@ emilianomanaloiv@gmail.com
 - [Jamovi](https://www.jamovi.org/)
 - [Draw.io](https://www.drawio.com/)
 - [Overleaf](https://github.com/overleaf/overleaf)
+- [GodDot](https://godotengine.org/)
 
 ## Programming Languages I Like
 - 🔧 [MinGW (GCC for Windows)](https://www.mingw-w64.org/downloads/) – For compiling C/C++ code on Windows.
@@ -70,4 +71,9 @@ emilianomanaloiv@gmail.com
 - [SymPy](https://github.com/sympy/sympy)
 - [LEAN](https://lean-lang.org/)
 - [NumPy](https://numpy.org/)
+
+## Open Source Education
+- [OSSU Computer Science](https://github.com/ossu/computer-science)
+- [LibreText](https://libretexts.org/)
+- [OpenStax](https://openstax.org/)
 
