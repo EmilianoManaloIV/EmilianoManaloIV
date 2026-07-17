@@ -6,6 +6,8 @@
 
 Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring software engineer and technical artist! Feel free to connect with me on LinkedIn and on other social media!
 
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/emilianomanaloiv)
+
 ## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python)](https://skillicons.dev)
