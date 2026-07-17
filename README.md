@@ -10,4 +10,4 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 
 # Frameworks And Game Engines
 
-[![Game Engines](https://skillicons.dev/icons?i=unreal,unity,godot)](https://skillicons.dev)
+[![Game Engines and Tools](https://skillicons.dev/icons?i=unreal,unity,godot,mysql,sqlite,blender)](https://skillicons.dev)
