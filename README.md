@@ -28,14 +28,3 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 ![3D Modeling](https://img.shields.io/badge/%F0%9F%A7%8A%203D%20Modeling-555555?style=for-the-badge)
 ![Virtual Production](https://img.shields.io/badge/%F0%9F%8E%A5%20Virtual%20Production-6A5ACD?style=for-the-badge)
 ![Production](https://img.shields.io/badge/%F0%9F%8E%AC%20Production-333333?style=for-the-badge)
-
-## GitHub Statistics
-
-![GitHub Stats](https://ghstats.dev/api/card?username=emilianomanaloiv&theme=tokyonight)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoManaloIV&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
-</p>
-
-
