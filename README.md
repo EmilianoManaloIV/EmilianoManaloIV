@@ -32,3 +32,4 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 ## GitHub Statistics
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=emilianomanaloiv&theme=tokyonight)
+
