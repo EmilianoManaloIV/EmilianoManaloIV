@@ -29,7 +29,11 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 ![Virtual Production](https://img.shields.io/badge/%F0%9F%8E%A5%20Virtual%20Production-6A5ACD?style=for-the-badge)
 ![Production](https://img.shields.io/badge/%F0%9F%8E%AC%20Production-333333?style=for-the-badge)
 
-## Statistics
+## GitHub Statistics
 
 ![Emiliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilianomanaloiv&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilianomanaloiv&layout=compact&theme=tokyonight)
+
+
 
