@@ -8,6 +8,6 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python)](https://skillicons.dev)
 
-# Frameworks And Game Engines
+# Software And Frameworks
 
 [![Game Engines and Tools](https://skillicons.dev/icons?i=unreal,unity,godot,mysql,sqlite,blender)](https://skillicons.dev)
