@@ -16,6 +16,16 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 
 [![Game Engines and Tools](https://skillicons.dev/icons?i=unreal,unity,godot,mysql,sqlite,blender)](https://skillicons.dev)
 
+## Fun Stuff I Like To Play Around With
+
+![AR/VR](https://img.shields.io/badge/AR%2FVR-000000?style=for-the-badge)
+![Simulations & Particles](https://img.shields.io/badge/Simulations%20%26%20Particles-1E1E1E?style=for-the-badge)
+![VRChat](https://img.shields.io/badge/VRChat-5865F2?style=for-the-badge)
+![Motion Capture](https://img.shields.io/badge/Motion%20Capture-333333?style=for-the-badge)
+![3D Printing / Imaging](https://img.shields.io/badge/3D%20Printing%20%2F%20Imaging-444444?style=for-the-badge)
+![Immersive Media](https://img.shields.io/badge/Immersive%20Media-6A5ACD?style=for-the-badge)
+![Roblox](https://img.shields.io/badge/%F0%9F%A7%B1%20Roblox-000000?style=for-the-badge)
+
 ## GitHub Statistics
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=emilianomanaloiv&theme=tokyonight)
