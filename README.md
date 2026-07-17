@@ -31,9 +31,7 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 
 ## GitHub Statistics
 
-![Emiliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilianomanaloiv&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilianomanaloiv&layout=compact&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=emilianomanaloiv&theme=tokyonight)
 
 
 
