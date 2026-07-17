@@ -15,3 +15,7 @@ Hello! Welcome To My Repository! My name is Emiliano Manalo, and I'm an aspiring
 ## Software And Frameworks
 
 [![Game Engines and Tools](https://skillicons.dev/icons?i=unreal,unity,godot,mysql,sqlite,blender)](https://skillicons.dev)
+
+## GitHub Statistics
+
+![GitHub Stats](https://ghstats.dev/api/card?username=emilianomanaloiv&theme=tokyonight)
